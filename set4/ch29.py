@@ -1,3 +1,10 @@
+# Author: Joseph Tulowiecki
+#
+# https://cryptopals.com/sets/1/challenges/4
+# Detect single-character XOR
+#
+#
+
 import binascii
 
 MAX_WORD = 0xFFFFFFFF
